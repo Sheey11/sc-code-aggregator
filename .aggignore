@@ -1,0 +1,10 @@
+.*
+.vscode/
+*.png
+*.webp
+*.ttf
+*.svg
+yarn.lock
+*.ico
+agg.py
+out.txt
